@@ -85,6 +85,24 @@
               "src/styles.css"
             ]
           }
+        },
+        "storybook": {
+          "builder": "@storybook/angular:start-storybook",
+          "options": {
+            "configDir": ".storybook",
+            "browserTarget": "ui-kit:build",
+            "compodoc": false,
+            "port": 6006
+          }
+        },
+        "build-storybook": {
+          "builder": "@storybook/angular:build-storybook",
+          "options": {
+            "configDir": ".storybook",
+            "browserTarget": "ui-kit:build",
+            "compodoc": false,
+            "outputDir": "storybook-static"
+          }
         }
       }
     }
