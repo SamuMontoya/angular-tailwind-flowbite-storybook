@@ -1,37 +1,37 @@
 {
-  "hash": "50784594",
+  "hash": "69f7cfcd",
   "configHash": "a94c8c13",
-  "lockfileHash": "863e04ab",
-  "browserHash": "989f26a7",
+  "lockfileHash": "cf694da1",
+  "browserHash": "a39592d6",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "e20eab80",
+      "fileHash": "d317ff44",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "5b288d9b",
+      "fileHash": "4f5a069b",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "37bc73a0",
+      "fileHash": "314d8e76",
       "needsInterop": false
     },
     "flowbite": {
       "src": "../../../../../../node_modules/flowbite/lib/esm/index.js",
       "file": "flowbite.js",
-      "fileHash": "5f3b8be5",
+      "fileHash": "0d0c6af0",
       "needsInterop": false
     },
     "zone.js": {
       "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
       "file": "zone__js.js",
-      "fileHash": "f27884da",
+      "fileHash": "2f085d04",
       "needsInterop": true
     }
   },

@@ -92,7 +92,8 @@
             "configDir": ".storybook",
             "browserTarget": "ui-kit:build",
             "compodoc": false,
-            "port": 6006
+            "port": 6006,
+            "styles": ["src/styles.css"]
           }
         },
         "build-storybook": {
